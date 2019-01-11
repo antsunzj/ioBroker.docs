@@ -1,6 +1,6 @@
 # Willkommen bei ioBroker {docsify-ignore-all}
 
-ioBroker ist *die* Integrationsplattform für das Internet der Dinge. 
+巴拉巴拉ioBroker ist *die* Integrationsplattform für das Internet der Dinge. 
 
 ioBroker ist der zentrale Service zum Anbinden, Auswerten und Bedienen 
 von Systemen, die ohne ioBroker Insellösungen bleiben würden. 
