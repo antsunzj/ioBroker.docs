@@ -1,30 +1,30 @@
 ---
-title:       "Installation"
-lastChanged: "13.09.2018"
-editLink:    "https://github.com/ioBroker/ioBroker.docs/edit/master/docs/install/README.md"
+标题:       "安装"
+最后更新: "13.09.2018"
+编辑链接:    "https://github.com/ioBroker/ioBroker.docs/edit/master/docs/install/README.md"
 ---
 
-# Installation {docsify-ignore-all}
+# 安装 {docsify-ignore-all}
 
-?> ***Dies ist ein Platzhalter***.
+?> ***这是一个占位符***.
    <br><br>
-   Hilf mit bei ioBroker und erweitere diesen Artikel.  
-   Bitte beachte den [ioBroker Style Guide](community/styleguidedoc), 
-   damit die Änderungen einfacher übernommen werden können.
+   帮助ioBroker并扩展这篇文章。  
+   请注意 [ioBroker 风格指南](community/styleguidedoc), 
+   这样可以更容易地接受变化。
 
 @@@   
-Dieses Dokument:   
-Was erwartet mich in diesem Abschnitt. Leitfaden geben, wie ich mich am
-besten bei der Wahl der Installationsart verhalte. Roter Faden durch das
-Kapitel.
+这份文件：
+在本节中等待我的是什么。 
+选择安装类型时指导如何表现最佳。
+红色线程贯穿本章。
 
-Themenvorschläge:   
-* Plattform Empfehlung
-* Voraussetzungen
-* Setup Varianten
-* ggf. Stable/Latest/GitHub anschneiden
-* Installation je nach Plattform siehe Nav-Baum Links
-* Weitere Schritte nach der Installation: Tutorial Erste Einrichtung
-* Hinweis auf Hilfe am Ende des Kapitels, wenn es nicht klappt 
+建议主题：
+*平台推荐
+*要求
+*设置变体
+*如有必要，剪切稳定/最新/ GitHub
+*安装取决于平台，请参阅导航树链接
+*安装后的其他步骤：教程初始设置
+*如果不起作用，请参阅本章末尾的帮助
 
 @@@
