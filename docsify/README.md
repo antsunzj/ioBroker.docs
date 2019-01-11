@@ -3,13 +3,13 @@
 这是用于ioBroker的GUI开发的原型系统
 基于的文档 [doksify](https://github.com/docsifyjs/docsify/).
 
-要使用该文档，请安装docsify
+要使用该文档，请安装docsify，命令如下：
 
 ~~~
 npm i docsify-cli -g
 ~~~
 
-如果要预览内容，请使用启动本地服务器
+如果要预览内容，请使用启动本地服务器，命令如下：
 
 ~~~
 docsify serve docs
