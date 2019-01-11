@@ -1,93 +1,42 @@
-# Willkommen bei ioBroker {docsify-ignore-all}
+# 欢迎来到ioBroker
 
-巴拉巴拉ioBroker ist *die* Integrationsplattform für das Internet der Dinge. 
+ioBroker是物联网的集成平台。
 
-ioBroker ist der zentrale Service zum Anbinden, Auswerten und Bedienen 
-von Systemen, die ohne ioBroker Insellösungen bleiben würden. 
+ioBroker是连接的中心服务, 系统的评估和操作, 解决信息孤岛的方案. 
 
-Ein ioBroker-System ist modular aufgebaut. Eine Vielzahl von `Adaptern`
-ermöglicht die Kommunikation mit über 200 verschiedenen Plattformen 
-von A wie Alexa bis Z wie Zeiterfassung. Sei es die Einbindung 
-kommerzieller Produkte aus fast allen Lebensbereichen oder die 
-Integration einer selbst erstellten Lösung - ioBroker macht fast 
-alles möglich. 
+ioBroker系统具有模块化结构. 各种`适配器`实现与200多个不同平台的通信，从像Alexa到Z的时间跟踪. 无论是整合
+来自各行各业的商业产品，还是整合diy的解决方案，ioBroker几乎都可以，一切皆有可能
 
-## Visualisierung
+## 可视化
 
-Die Schnittstelle zum Benutzer ist die Visualisierung. ioBroker 
-stellt dazu mit `VIS` eine mächtige Umgebung zur Verfügung. 
-Aktuelle Werte von Sensoren können genau so wie historische Verläufe 
-grafisch aufbereitet dargestellt werden. Live-Bilder von 
-Überwachungskameras, die Implementierung einer Alarmanlage, 
-Heizungssysteme und Klimatechnik - fast alles was vorstellbar ist,
-kann auch umgesetzt werden. 
+用户界面是可视化。ioBroker为“VIS”提供了一个强大的环境。传感器的当前值可以与历史数据一样，以图形方式呈现。 实时图片监控摄像头、报警系统的实施、供暖系统和空调， 几乎可以想象的一切也可以实施。
 
 ![VIS](media/vis2.png ':size=500')  
-*Beispiel für eine selbst erstellte VIS-Benutzeroberfläche*
+*自创建VIS用户界面的示例*
 
-Dabei hat der Anwender maximale Gestaltungsfreiheit. Die Erstellung 
-von Automatismen und Abläufen bei der Visualisierung ist auch ohne 
-Programmierkenntnisse möglich. Vorgefertigte Bausteine zur 
-einfachen Verwendung helfen dem Anwender dabei. Doch nicht nur die 
-Anzeige von Informationen ist möglich. Auch die Steuerung von Geräten 
-ist über die Visualiserungsoberfläche schnell umgesetzt. Die Bedienung 
-der Oberfläche ist dabei auf die unterschiedlichsten Endgeräte 
-abgestimmt - vom Smartphone über das Wandtablet mit Touchfunktion 
-bis hin zum Personal Computer - alles kann durch einfaches Drag and 
-Drop realisiert werden.
+用户拥有最大的设计自由度， 创作可视化中的自动化和过程没有编程知识也可能实现，预制构件的易用性有助于用户这样做。 但它不仅仅是可以显示信息，设备的控制也可以通过可视化界面快速实现。 操作ui可以通过各种的设备进行调整 - 从智能手机到具有触摸功能的墙上平板电脑或者个人电脑，一切都可以通过简单的拖放来完成，可以实现较好的交互效果。
 
 
-## Plattformübergreifend
+## 跨平台
 
-Jeder, der sich mit Hausautomation beschäftigt, wird früher oder 
-später feststellen, dass Systeme häufig nicht perfekt sind. Jedes 
-System hat seine Stärken und Schwächen. ioBroker ist deshalb 
-plattformübergreifend. Der Parallelbetrieb mit bestehenden Lösungen 
-ist jederzeit möglich. Es können Synergieeffekte genutzt und das 
-Beste aus allen Welten zusammengeführt werden. Dabei ist ioBroker 
-selbst auf fast allen Plattformen zu Hause. ioBoker kann unter Windows, 
-Linux, OSX oder auch als Dockerimage installiert werden. Vorkonfigurierte 
-Installationsimages nehmen dabei dem Anwender die Installationsarbeit ab.
+每个使用智能家庭自动化系统的人迟早都会得到，后来发现系统往往不完美。每系统有其优点和缺点。 因此ioBroker跨平台的。 与现有解决方案并行运行有可能在任何时候。 可以使用协同效应最好的世界汇集在一起。 这是ioBroker甚至几乎在家里的所有平台上。 ioBoker可以在Windows下工作，要安装Linux，OSX或Dockerimage。预配置安装映像将用户从安装工作中获取。
 
-Über eine optionale cloudbasierte Oberfläche ist für den Anwender oder 
-Systemintegratoren der Remote-Zugriff auf ein lokal installiertes 
-ioBroker-System 7x24h möglich. Die Zugriffsteuerung kann mittels 
-Benutzer und Gruppen vom Anwender frei konfiguriert werden.
+关于可选的基于云的界面适用于用户或系统集成商远程访问本地安装ioBroker系统可能7x24h。 访问控制可以通过用户可以自由配置用户和组。
 
-## Skalierbar
+## 可扩展性
 
-Sollen im Laufe der Zeit weitere Systeme angebunden werden, können vom 
-Anwender jederzeit zusätzliche Adapter bei laufendem Betrieb hinzugefügt 
-werden. Auch ioBroker selbst ist skalierbar. Mehrere ioBroker-Server 
-können zu einem `Mutihost`-System verbunden werden. Dabei ist sogar die 
-Mischung von Betriebssystemplattformen und die Kopplung von 
-SoC-Einplatinencomputern mit großen Multicore-Servern möglich. 
-Für Systeme mit höchsten Performanceanforderungen kann optional Redis, 
-eine besonders schnelle Datenbank, eingebunden werden.
+如果要随着时间的推移连接其他系统，那么用户在操作期间始终添加了其他适配器是。 IoBroker本身也是可扩展的。 几个ioBroker服务器可以连接到“Mutihost”系统。 甚至是混合操作系统平台和耦合可能具有大型多核服务器的SoC单板计算机。对于性能要求最高的系统，可选Redis，一个特别快的数据库。
 
-## Erweiterbar
+## 扩张
 
-Die Programmierung erfolgt mit JavaScript, einer seit 1995 stetig weiter
-entwickelten Skriptsprache. Diese ist einfach zu erlernen, so dass neue
-Anforderungen schnell umsetzbar sind. Das macht es möglich, dass jeder
-zu ioBroker beitragen kann und auch individuelle Anforderungen
-umsetzbar sind.
+编程是用JavaScript完成的，自1995年以来一直稳定开发脚本语言。 这很容易学习，所以很新要求很快得到实施。 这使每个人都有可能可以为ioBroker以及个人需求做出贡献可以实施。
 
-## Community
+## 社区
 
-Seit 2014 hat sich ioBroker aufgrund seiner vielen Vorzüge eine breite 
-Unterstützung von tausenden Anwendern und Entwicklern gesichert. Im eigens
-eingerichteten [Forum][] treffen sich Anwender 
-und Entwickler und tauschen dort ihre Erfahrungen und Anregungen 
-miteinander aus. Da ioBroker Open Source-Software ist, stehen alle 
-Quelltexte auf der Plattform [GitHub][] 
-zur freien Verfügung. 
+自2014年以来，ioBroker因其众多优势而具有广泛的优势成千上万的用户和开发人员支持支持。 在特别[论坛] []与用户见面和开发人员分享他们的经验和建议彼此。由于ioBroker是开源软件，所以每个人都站着平台上的源文本 [GitHub][] 闲暇时。
 
-!> Was ioBroker nicht ist:  
-   ioBroker ist keine kommerzielle Software. ioBroker wird von ehrenamtlichen
-   Helfern entwickelt und gepflegt. Deshalb erfolgt der Einsatz der Software
-   auf eigene Haftung, ausgenommen dem Vorsatz einer mutwilligen Schädigung. 
-   Es gibt keinen vertraglich festgelegten Support.
+!> 特别声明:  
+  ioBroker不是商业软件。 ioBroker由志愿者经营帮手开发和维护。 因此，使用该软件关于自己的责任，除了故意损害的意图。没有合同支持。
 
-[Forum]: https://forum.iobroker.net
+[论坛支持]: https://forum.iobroker.net
 [GitHub]: https://github.com/iobroker/iobroker
