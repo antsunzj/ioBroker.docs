@@ -1,69 +1,69 @@
-* [Willkommen](README)
-  * [Einführung](intro/)
+* [欢迎](README)
+  * [引言](intro/)
 
-* Grundlagen
-  * [Einleitung](basics/README)
-  * [Systemaufbau](basics/architecture)
-  * [Adapter & Instanzen](basics/adapter)
-  * [Repositories](basics/repositories)
-  * [Objekte](basics/objects)
-  * [States & Datenpunkte](basics/states)
-  * [Funktionen](basics/functions)
-  * [Rollen](basics/roles)
+* 基础知识
+  * [介绍](basics/README)
+  * [系统设计](basics/architecture)
+  * [适配器和实例](basics/adapter)
+  * [资源库](basics/repositories)
+  * [对象](basics/objects)
+  * [States & 数据点](basics/states)
+  * [功能](basics/functions)
+  * [卷](basics/roles)
 
-* Installation
-  * [Einleitung](install/README)
-  * [Systemvoraussetzungen](install/requirements)
-  * [Hardware](install/hardware)
+* 安装
+  * [介绍](install/README)
+  * [系统要求](install/requirements)
+  * [硬件](install/hardware)
   * Fertige Images
     * [Übersicht](install/images)
-  * Virtualisierungsplattformen
+  * 虚拟化平台
     * [Proxmox](install/proxmox)
     * [VirtualBox](install/virtualbox)
     * [Docker](install/docker)
-  * Manuelle Installation
+  * 手动安装
     * [Node.js](install/nodejs)
     * [Linux](install/linux)
     * [Windows](install/windows)
     * [macOS](install/macos)
-  * Softwareupdate
+  * 软件更新
     * [Allgemein](install/update)
     * [ioBroker](install/updateself)
     * [Adapter](install/updateadapter)
     * [Node.js & npm](install/updatenode)
 
-* Admin-Oberfläche
-  * [Einleitung](admin/README)
-  * [Aufbau des Adminfensters](admin/screen)
-  * [Systemeinstellungen](admin/settings)
-  * [Admin-Übersicht](admin/overview)
-  * [Adapter](admin/adapter)
-  * [Instanzen](admin/instanzen)
-  * [Objekte](admin/objects)
-  * [Log](admin/log)
-  * [Aufzählungen](admin/enums)
-  * [Ereignisse](admin/events)
-  * [Skripte](admin/scripts)
-  * [Hosts](admin/hosts)
+* 管理界面
+  * [介绍](admin/README)
+  * [管理窗口的结构](admin/screen)
+  * [系统设置](admin/settings)
+  * [Admin概述](admin/overview)
+  * [适配器](admin/adapter)
+  * [实例](admin/instanzen)
+  * [对象](admin/objects)
+  * [日志](admin/log)
+  * [枚举](admin/enums)
+  * [活动](admin/events)
+  * [脚本](admin/scripts)
+  * [主机](admin/hosts)
 
-* Tutorials
-  * [Einleitung](tutorial/README)
-  * [Erste Einrichtung](tutorial/einrichtung)
-  * [Benutzeroberfläche](tutorial/admin)
-  * [Adapter verwalten](tutorial/adapter)
-  * [Einfache Logik](tutorial/logik)
-  * [Visualiserung](tutorial/viz)
-  * [Datenhistorisierung](tutorial/history)
-  * [Diagramme](tutorial/flot)
-  * [Updates](tutorial/updates)
+* 教程
+  * [介绍](tutorial/README)
+  * [第一次成立](tutorial/einrichtung)
+  * [用户界面](tutorial/admin)
+  * [管理适配器](tutorial/adapter)
+  * [简单的逻辑](tutorial/logik)
+  * [可视化](tutorial/viz)
+  * [数据历史化](tutorial/history)
+  * [图](tutorial/flot)
+  * [更新](tutorial/updates)
 
-* Visualisierungen
-  * [Einleitung](viz/README)
+* 可视化
+  * [介绍](viz/README)
   * [Material](viz/material)
   * [Vis](viz/vis)
 
-* Logik
-  * [Einleitung](logic/README)
+* 逻辑
+  * [介绍](logic/README)
   * [Blockly](logic/blockly)
   * [JavaScript](logic/javascript)
   * [TypeScript](logic/typescript)
@@ -71,9 +71,9 @@
   * [Troubleshooting](logic/help)
   * [Best Practices](logic/examples)
 
-* Cloud-Services & Apps
-  * [Einleitung](cloud/README)
-  * [Visualisierungen](cloud/viz)
+* 云服务和应用
+  * [介绍](cloud/README)
+  * [可视化]](cloud/viz)
   * [Editoren](cloud/editor)
   * [Alexa Smarthome-Skill](cloud/alexasmart)
   * [Alexa Custom-Skill](cloud/alexacustom)
