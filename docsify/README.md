@@ -1,26 +1,26 @@
 # ioBroker Documentation Prototyping System
 
-This is a prototyping system for the GUI-development of the ioBroker
-documentation based on [doksify](https://github.com/docsifyjs/docsify/).
+这是用于ioBroker的GUI开发的原型系统
+基于的文档 [doksify](https://github.com/docsifyjs/docsify/).
 
-To use the documenation, install docsify with
+要使用该文档，请安装docsify
 
 ~~~
 npm i docsify-cli -g
 ~~~
 
-If you want to preview the content, start a local server with
+如果要预览内容，请使用启动本地服务器
 
 ~~~
 docsify serve docs
 ~~~
 
-with `docs` as the root folder of the website.
+用`docs`作为网站的根文件夹。
 
-You can preview your site in your browser on `http://localhost:3000`.
+您可以在浏览器中预览您的网站 `http://localhost:3000`.
 
-For more information on docsify check out [docsify-cli](https://github.com/docsifyjs/docsify-cli)
-and [https://docsify.js.org](https://docsify.js.org).
+有关docsify的更多信息，请查看 [docsify-cli](https://github.com/docsifyjs/docsify-cli)
+和 [https://docsify.js.org](https://docsify.js.org).
 
-Have a nice day!
+祝你今天愉快！
 
