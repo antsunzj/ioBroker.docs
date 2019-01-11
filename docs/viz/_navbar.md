@@ -6,5 +6,5 @@
 * [论坛](https://forum.iobroker.net)
 * []()
 
-* 🌐 Language
+* 🌐 语言支持
   * [德语](/README)
