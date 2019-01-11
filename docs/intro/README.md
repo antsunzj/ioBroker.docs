@@ -1,59 +1,57 @@
 ---
-lastChanged: "11.09.2018"
+最后更新: "11.09.2018"
 ---
 
-# ioBroker {docsify-ignore-all}
+# ioBroker
 
-?> Diese Dokumentation entsteht gerade erst. Deshalb bitte nicht wundern,
-   wenn Links nicht funktionieren oder Inhalte fehlen.
+这个文档刚刚开始更新。所以如果链接不起作用或内容丢失，请不要感到惊讶。
    <br><br>
-   Diese Dokumentation wird stetig erweitert. Wenn Sie der Meinung sind,
-   dass etwas fehlt oder besser beschrieben werden sollte,
-   [helfen Sie uns dabei][], die Dokumentation zu verbessern!
+   该文档不断扩展。 如果您认为某些内容缺失或更好地描述，
+   [帮助我们], 改进文档！
 
-?> ***Dies ist ein Platzhalter***.
+?> ***这是一个占位符***.
    <br><br>
-   Hilf unserer ioBroker Community und erweitere diesen Artikel.  
-   Bitte beachtet den [ioBroker Style Guide](community/styleguidedoc),
-   damit die Änderungen einfacher übernommen werden können.
+   帮助我们的ioBroker社区并扩展这篇文章。  
+   请注意 [ioBroker 风格指南](community/styleguidedoc),
+   这样可以更容易地接受变化。
 
 
-ioBroker ist ein zentraler Server für Automatisierungsaufgaben rund um Smart Home, der Gebäudeautomatisation sowie Active Assisted Living. ioBroker kann über modulare `Adapter` mit vielen bestehenden Systemen und Geräten kommunizieren. Über Regeln lassen sich Funktionsabläufe herstellerunabhängig erstellen. Mit ioBroker bereitgestellte graphische Oberflächen helfen, die Bedienung bzw. Überwachung von Geräten zu vereinfachen.
+ioBroker是智能家居，楼宇自动化和主动辅助生活的自动化任务的中央服务器。 ioBroker可以通过模块化适配器与许多现有系统和设备进行通信。 使用规则，无论制造商如何，都可以创建功能序列。 ioBroker提供的图形界面有助于简化设备的操作和监控。
 
-Diese Dokumentation ist die zentrale Referenz für alle ioBroker-Anwender:
+本文档是所有ioBroker用户的核心参考：
 
-* Für Einsteiger empfehlen wir, zuerst einige Grundlagen über IOBroker nachzulesen. Dazu mehr im Kapitel [Einführung](#Einführung).
-* Erfahrene Anwender finden auf der [Download][]-Seite vorbereitete Images für verschiedene Systeme. Dort stehen auch detailierte Installationsanweisungen für einige Hardwareplattformen bereit.
-* Informationen zu allen Adaptern bietet die zentrale [Adapter-Referenz][].
-* Die Erstellung von Steuerungsregeln wird im Abschnitt [Logik][] beschrieben.
+* 对于初学者，我们建议首先阅读有关IOBroker的一些基础知识。 有关详细信息，请参见[简介]（＃简介）一章。
+* 有经验的用户可以在[下载]页面上找到不同系统的准备好的图像。 一些硬件平台也有详细的安装说明。
+* 有关所有适配器的信息由中央[适配器参考]提供。
+* 控制规则的创建在[逻辑]部分中描述。
 
-Für jede helfende Hand sind wir dankbar. Falls Sie zur Weiterentwicklung von ioBroker betragen möchten, finden Sie Informationen im [Developer Bereich][].
+我们感激每一位帮助之手。 如果您想进一步开发ioBroker，可以在[开发者部分]中找到相关信息。
 
-Diese Dokumentation wird stetig erweitert. Wenn Sie der Meinung sind, dass etwas fehlt oder besser beschrieben werden sollte, [helfen Sie uns dabei][], die Dokumentation zu verbessern!
+该文档不断扩展。 如果您认为缺少或更好地描述了某些内容，[帮助我们]会改进文档！
 
-## Einführung
+## 介绍
 
->- [Konzepte]() lesen
->- Im [Installation Guide]() die richtige HW heraussuchen (da müssen Empfehlungen rein, was wir für HW/Docker/Image für was gut finden)
->- Experimente mit raspberry sind einfach
->- [Einsteiger Tutorial]() folgen, dann
->- Detailierte Infos zu den Einstellungen im [Configuration Guide]()
->- Alles zur [Visualisierung]() (VIS,Materialize,habpanel)
->- Regeln anlegen in Javascript, Blockly oder Node Red mit [Logik]()
->- Hinweis auf die Community
+>  -  [概念]阅读
+>  - 在[安装指南]中选择正确的HW（必须有建议，我们对于HW / Docker / Image有什么好处）
+>  - 覆盆子的实验很容易
+>  -  [初学者教程]跟随，然后
+>  - 有关[配置指南]中设置的详细信息
+>  - 所有关于[可视化]（VIS，Materialize，habpanel）
+>  - 使用[逻辑]在Javascript，Blockly或Node Red中创建规则
+>  - 参考社区
 
-## ioBroker Community
+## ioBroker社区
 
-> Wir stellen uns vor  
-[Forum]()  
-[Blog]()  
-[Facebook]()
+> 我们自我介绍 
+[论坛]
+[博客页]
+[Facebook的]
 
-> Überleitung zu den Konzepten
+> 过渡到概念
 
 
-[Download]: install/images
-[Adapter-Referenz]: adapterref/adapterliste
-[Logik]: logic/README
-[Developer bereich]: dev/README
-[helfen Sie uns dabei]: community/doc
+[下载]: install/images
+[适配器参考]: adapterref/adapterliste
+[逻辑]: logic/README
+[开发者区域]: dev/README
+[帮助我们]: community/doc
