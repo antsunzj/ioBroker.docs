@@ -1,13 +1,13 @@
 ---
-title:       "Visualisierung"
-lastChanged: "13.09.2018"
-editLink:    "https://github.com/ioBroker/ioBroker.docs/edit/master/docs/viz/material.md"
+标题:       "可视化"
+最后更新: "13.09.2018"
+编辑链接:    "https://github.com/ioBroker/ioBroker.docs/edit/master/docs/viz/material.md"
 ---
 
-# Visualisierung mit Material {docsify-ignore-all}
+# 可视化与Material {docsify-ignore-all}
 
-?> ***Dies ist ein Platzhalter***.
+?> ***这是一个占位符***.
    <br><br>
-   Hilf mit bei ioBroker und erweitere diesen Artikel.  
-   Bitte beachte den [ioBroker Style Guide](community/styleguidedoc), 
-   damit die Änderungen einfacher übernommen werden können.
+   帮助ioBroker并扩展这篇文章。
+   请注意 [ioBroker 样式指南](community/styleguidedoc), 
+   这样可以更容易地接受变化。
