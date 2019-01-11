@@ -73,7 +73,7 @@
 
 * 云服务和应用
   * [介绍](cloud/README)
-  * [可视化]](cloud/viz)
+  * [可视化](cloud/viz)
   * [Editoren](cloud/editor)
   * [Alexa Smarthome-Skill](cloud/alexasmart)
   * [Alexa Custom-Skill](cloud/alexacustom)
@@ -82,48 +82,48 @@
   * [Android App](cloud/androidapp)
   * [iOS App](cloud/iosapp)
 
-* Erweiterte Konfiguration
-  * [Einleitung](config/README)
-  * [Benutzer und Rechteverwaltung](config/userrights)
-  * [Authentifizierung](config/login)
-  * [SSL für Webzugriff](config/encryption)
-  * [Kommandozeilen-Tools](config/commandline)
-  * [Multi-Host](config/multihost)
-  * [Datenhaltung mit Redis](config/redis)
-  * [Datensicherung](config/backup)
+* 扩展配置
+  * [介绍](config/README)
+  * [用户和权限管理](config/userrights)
+  * [认证](config/login)
+  * [用于Web访问的SSL](config/encryption)
+  * [命令行工具](config/commandline)
+  * [多主机](config/multihost)
+  * [使用Redis进行数据管理](config/redis)
+  * [数据备份](config/backup)
 
-* Fehlerbehebung
-  * [Einleitung](trouble/README)
-  * [Fehlersuche](trouble/search)
-  * [Adapterfehler](trouble/adapter)
-  * [Melden von Fehlern](trouble/issue)
-  * [Datenwiederherstellung](trouble/restore)
-  * [Forum](trouble/forum)
+* 疑难解答
+  * [介绍](trouble/README)
+  * [疑难解答](trouble/search)
+  * [适配器错误](trouble/adapter)
+  * [报告错误](trouble/issue)
+  * [数据恢复](trouble/restore)
+  * [论坛](trouble/forum)
 
-* Unterstützung
-  * [Einleitung](community/README)
-  * [Mitarbeit im Team](community/project)
-  * Dokumentation
-    * [Artikel verfassen](community/doc)
-    * [Style Guide Dokumentation](community/styleguidedoc)
-    * [Markdown Syntax](community/docmarkdown)
+* 支持
+  * [介绍](community/README)
+  * [团队中的协作](community/project)
+  * 文件
+    * [写一篇文章](community/doc)
+    * [样式指南文档](community/styleguidedoc)
+    * [Markdown语法](community/docmarkdown)
 
-* Adapterentwicklung
-  * [Einführung](dev/adapterdev)
-  * [Entwicklungsumgebung](dev/ide)
-  * [Adapterreferenz](dev/adapterref)
-  * [Template](dev/adaptertemplate)
-  * [Adapter-Tests](dev/adaptertesting)
-  * [Vorlage Adapterdoku](dev/adapterdoctemplate)
-  * [Style Guide Adapter-Doku](dev/adapterdocstyleguide)
-  * [Style Guide Userinterface](dev/styleguideui)
-  * [Debugging](dev/adapterdebug)
-  * [Veröffentlichen](dev/adapterpublish)
+*适配器开发
+  * [介绍](dev/adapterdev)
+  * [开发环境](dev/ide)
+  * [适配器参考](dev/adapterref)
+  * [模板](dev/adaptertemplate)
+  * [适配器测试](dev/adaptertesting)
+  * [模板适配器文档](dev/adapterdoctemplate)
+  * [样式指南适配器文档](dev/adapterdocstyleguide)
+  * [样式指南用户界面](dev/styleguideui)
+  * [调试](dev/adapterdebug)
+  * [发布](dev/adapterpublish)
   * [JS-Controller](dev/controller)
-  * [Best Practices](dev/bestpractices)
+  * [最佳做法](dev/bestpractices)
 
-* System-Integratoren
-  * [Einleitung](integrators/README)
+* 系统集成商
+  * [介绍](integrators/README)
   * [Link-Box](integrators/linkbox)
 
-* [Impressum](appendix/impressum)
+* [版本说明](appendix/impressum)
