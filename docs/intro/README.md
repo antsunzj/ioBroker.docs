@@ -49,7 +49,6 @@ ioBroker是智能家居，楼宇自动化和主动辅助生活的自动化任务
 
 > 过渡到概念
 
-
 [下载]: install/images
 [适配器参考]: adapterref/adapterliste
 [逻辑]: logic/README
